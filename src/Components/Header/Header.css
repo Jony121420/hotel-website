@@ -1,0 +1,68 @@
+.links{
+    text-decoration: none;
+    color: red;
+ 
+}
+.nav-border{
+    background-color: #95D1CC;
+    max-width: 100%;
+ 
+  
+    
+  
+   
+  
+}
+
+.nav-option{
+    color: red;
+}
+.header-img{
+    width: 150px;
+    height: 120px;
+    margin-left: 35px;
+    border-radius: 50%;
+}
+.links a{
+    text-decoration: none;
+    list-style: none;
+    color: red;
+    font-size: 20px;
+    margin: 20px;
+    
+}
+.link-div{
+    display: flex;
+    align-items: center;
+   margin-left: 516px;
+}
+
+.button{
+    
+    background-color: rgb(126, 126, 231);
+    border: none;
+}
+
+@media only screen and (max-width: 600px) {
+    .navbar-nav{
+        margin-left: -307px;
+        
+    }
+    .nav-border{
+        overflow-x: hidden;
+        max-width: 100%;
+    }
+    .header-img{
+        width: 80px;
+        height: 80px;
+    }
+    .nav-menu{
+        margin-right: 10px;
+    }
+   
+    }
+    @media only screen and (max-width: 768px){
+        .nav-border{
+            max-width: 100%;
+        }
+    }

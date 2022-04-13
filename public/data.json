@@ -1,0 +1,49 @@
+[
+    {"name":"Doble Bad Room",
+        "id":1, 
+       "Price":"4000 TK",
+       "img":"https://image.shutterstock.com/image-photo/hotel-room-260nw-121735678.jpg"
+   },
+    {"name":"Classic Single Room", 
+        "id":2,
+       "Price":" 2500 TK",
+       "img":"https://hotelvilnia.lt/wp-content/uploads/2018/06/DSC07685-HDR-Edit-Edit.jpg"
+   },
+    {"name":"DOUBLE BEDS - 2 FULL SIZE BEDS", 
+        "id":3,
+       "Price":"3000 TK",
+       "img":"https://363y9x2yvibf3462u52liac3-wpengine.netdna-ssl.com/wp-content/uploads/2019/07/Bottom-image-1.jpg"
+   },
+   
+    {"name":"Beautiful Single Room", 
+        "id":4,
+       "Price":"2000 TK",
+       "img":"https://14reasonswhy.gr/storage/2019/04/Small-Double-Room-2.jpg"
+   },
+    {"name":" Exclusive Doble Bad", 
+        "id":5,
+       "Price":"12000 Tk",
+       "img":"https://www.diamondcoast.ie/upload/slide_images/family-room-3-.jpg"
+   },
+    {"name":" Exclusive Doble Bad", 
+        "id":5,
+       "Price":"12000 Tk",
+       "img":"https://www.diamondcoast.ie/upload/slide_images/family-room-3-.jpg"
+   },
+    {"name":" Exclusive Doble Bad", 
+        "id":5,
+       "Price":"12000 Tk",
+       "img":"https://www.diamondcoast.ie/upload/slide_images/family-room-3-.jpg"
+   },
+    {"name":" Exclusive Doble Bad", 
+        "id":5,
+       "Price":"12000 Tk",
+       "img":"https://www.diamondcoast.ie/upload/slide_images/family-room-3-.jpg"
+   },
+    {"name":" Exclusive Doble Bad", 
+        "id":5,
+       "Price":"12000 Tk",
+       "img":"https://www.diamondcoast.ie/upload/slide_images/family-room-3-.jpg"
+   }
+   
+   ]

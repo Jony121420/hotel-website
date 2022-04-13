@@ -1,0 +1,25 @@
+.rooms{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-left: 50px;
+    gap: 15px;
+}
+
+@media only screen and (max-width: 600px) {
+   .rooms{
+    grid-template-columns: repeat(1,1fr);
+    margin-left: 0px;
+   
+   
+   
+   }
+    
+}
+@media only screen and (min-width:601px) and (max-width:790px) {
+   .rooms{
+    grid-template-columns: repeat(2,1fr);
+    margin-left: 5px;
+    
+   }
+    
+}

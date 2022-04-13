@@ -1,0 +1,22 @@
+.single-room{
+     position: relative;
+     width: 350px;
+     height: 450px;
+     padding: 15px;
+     margin: 15px;
+     background-color:   rgb(242, 242, 240);;
+    
+     box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+.img-room{
+    width: 280px;
+}
+.card-button{
+    width: 100%;
+    position: absolute;
+    margin-left: -95px;
+    bottom: 0;
+    border: none;
+   
+    padding: 10px;
+}
